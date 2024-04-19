@@ -1,0 +1,21 @@
+{
+  "is_main": true,
+  "import": [
+    {
+      "path": "shamiao/mbt-leetcode-apr24/distribute-elements-into-two-arrays-i",
+      "alias": "lib"
+    },
+    {
+      "path": "loneoutpost/core-extra/representation",
+      "alias": "representation"
+    }
+  ],
+  "link": {
+    "wasm": {
+      "exports": [
+        "append_arr",
+        "allocate_buffer"
+      ]
+    }
+  }
+}

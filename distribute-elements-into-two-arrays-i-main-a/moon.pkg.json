@@ -1,0 +1,18 @@
+{
+  "is_main": true,
+  "import": [
+    {
+      "path": "shamiao/mbt-leetcode-apr24/distribute-elements-into-two-arrays-i",
+      "alias": "lib"
+    }
+  ],
+  "link": {
+    "wasm": {
+      "exports": [
+        "push_input_num",
+        "solve",
+        "get_output_num"
+      ]
+    }
+  }
+}

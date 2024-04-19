@@ -1,0 +1,14 @@
+{
+  "name": "shamiao/mbt-leetcode-apr24",
+  "version": "0.1.0",
+  "deps": {
+    "loneoutpost/core-extra": "0.0.5"
+  },
+  "readme": "README.md",
+  "repository": "https://github.com/shamiao/mbt-leetcode-apr24",
+  "license": "Unlicense",
+  "keywords": [
+    "leetcode"
+  ],
+  "description": "some LeetCode solutions by MoonBit language."
+}
